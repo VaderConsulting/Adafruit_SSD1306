@@ -2,6 +2,7 @@
 
 SSD1306 oled driver library for monochrome 128x64 and 128x32 displays. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 2.5.1. Upstream: <https://github.com/adafruit/Adafruit_SSD1306>.
 
+**Source last updated:** 2022-01-13  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
